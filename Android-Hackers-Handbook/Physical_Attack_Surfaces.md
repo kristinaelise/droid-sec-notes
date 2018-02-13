@@ -33,6 +33,7 @@
 - HTC One's T-Mobile version exposed ADB with no authN by default and didn't allow disabling it
 - attacks demo'd: 
   - "Juice Jacking": Robert Rowley
+    - conference talks: https://www.youtube.com/watch?v=Vo7YFJ6LSBk
     - attacker creates charging station that can download victim's data or install malicious software
   - "physical drive-by attack": Kyle Osborn, Michael Muller
     - downloaded victim's data using ADB
